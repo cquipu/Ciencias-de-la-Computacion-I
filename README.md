@@ -2,9 +2,7 @@
 
 
 **Docente:** Edson Huillca.
-
 **Aula:**  Lab-01.
-
 **Horario:**  Viernes, de 18h a 22h.
 
 ### Tópicos
